@@ -9,3 +9,7 @@ In connection with this idea, I made a dataset.
 
 
 I took the mobile network as the basis for the neural network, where I changed only the first and last layers.
+
+
+
+IF YOU WANT TO GET REAL SOLUTION NOT ONLY CODE CHECKOUT RELEASE WITH NAME SUBMISSION
